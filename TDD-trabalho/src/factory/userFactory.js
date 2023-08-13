@@ -1,0 +1,5 @@
+class userFactory {
+  constructor() {
+
+  }
+}
