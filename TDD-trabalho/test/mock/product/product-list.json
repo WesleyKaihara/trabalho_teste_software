@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1749003b-5231-41e4-a1a7-88e8c89da05f",
+    "name": "NutriOil - Máscara Nutritiva",
+    "description": "Sua fórmula profissional é enriquecida com óleo de soja em uma textura leve que confere a dose certa de nutrição.",
+    "brand": "L'ORÉAL PROFESSIONNEL",
+    "value": 63.90,
+    "avaible": 9
+  },
+  {
+    "id": "6f0d7309-be4a-4366-939a-841c785d8b72",
+    "name": "Batom Líquido Longa Duração",
+    "description": "O Batom Líquido SuperStay Matte Ink de Maybelline proporciona acabamento matte impecável em uma variedade de cores super pigmentadas.",
+    "brand": "MAYBELLINE",
+    "value": 128.50,
+    "avaible": 15
+  },
+  {
+    "id": "94ea0963-50d6-4b2a-b6a0-ec77bc553f6a",
+    "name": "Protetor Solar com Cor",
+    "description": "Um protetor solar facial de uso diário desenvolvido especialmente para peles oleosas.",
+    "brand": "L'ORÉAL PARIS",
+    "value": 44.64,
+    "avaible": 8
+  }
+]
