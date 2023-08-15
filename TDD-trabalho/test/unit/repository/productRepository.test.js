@@ -69,7 +69,7 @@ describe("#PRODUCT REPOSITORY SUITE TESTS" , () => {
     expect(result).to.deep.equal()
   })
 
-  it("should throw error when delete invalid category", async() => {
+  it("should throw error when delete invalid product", async() => {
     try {
       const result = await productRepository
       .delete("139fc80f-e377-46a2-96a9-825817123")

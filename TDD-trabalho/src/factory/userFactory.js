@@ -1,5 +1,0 @@
-class userFactory {
-  constructor() {
-
-  }
-}
