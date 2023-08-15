@@ -1,0 +1,23 @@
+[
+  {
+    "id": "7474631f-e8a2-4910-8ec0-a770a0c6946d",
+    "name": "Juscelino Junior",
+    "email": "junior.juscelino@gmail.com", 
+    "telefone":"(44)9 1234-5678",
+    "endereco": "Rua das Aves, 123"
+  },
+  {
+    "id" :"3591a599-b9c9-4018-a6b0-ea1ef029538b",
+    "name": "Breno Ramos",
+    "email": "ramos.breno@gmail.com", 
+    "telefone":"(44)9 8765-4321",
+    "endereco": "Rua Brasil, 8080"
+  },
+  {
+    "id" :"1cd0fc76-56e9-4975-96d8-28a2f5645142",
+    "name": "Andreas Thomas",
+    "email": "thomas.andreas@gmail.com", 
+    "telefone":"(44)9 4444-4444",
+    "endereco": "Avenida dos Patos, 80"
+  }
+]

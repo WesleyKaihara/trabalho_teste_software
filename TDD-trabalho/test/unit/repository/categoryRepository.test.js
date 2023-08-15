@@ -17,7 +17,7 @@ describe("#CATEGORY REPOSITORY SUITE TESTS" , () => {
   }
 
   beforeEach((done) => {
-    fs.writeFile(
+    fs.writeFileSync(
       path
         .resolve(__dirname, "..","..","mock","database","category.db.json"), 
       JSON.stringify(mocks.CATEGORY_LIST), 

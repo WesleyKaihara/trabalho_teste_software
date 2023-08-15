@@ -17,7 +17,7 @@ describe("#PRODUCT REPOSITORY SUITE TESTS" , () => {
   }
 
   beforeEach((done) => {
-    fs.writeFile(
+    fs.writeFileSync(
       path
         .resolve(__dirname, "..","..","mock","database","product.db.json"), 
       JSON.stringify(mocks.PRODUCT_LIST), 
